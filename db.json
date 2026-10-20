@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "p-1001",
+      "name": "Aurora Wireless Headphones",
+      "sku": "AUD-2048",
+      "category": "Electronics",
+      "price": 89.99,
+      "stock": 42,
+      "reorderLevel": 12,
+      "status": "In Stock",
+      "description": "Immersive over-ear sound with adaptive noise cancellation and a 30-hour battery.",
+      "color": "#e8e7ff",
+      "accent": "#7167e8",
+      "updatedAt": "2024-06-17"
+    },
+    {
+      "id": "p-1002",
+      "name": "Terra Ceramic Tumbler",
+      "sku": "HOM-1180",
+      "category": "Home & Living",
+      "price": 24.5,
+      "stock": 8,
+      "reorderLevel": 15,
+      "status": "Low Stock",
+      "description": "A double-wall ceramic tumbler designed for slow mornings and warm drinks.",
+      "color": "#fff0db",
+      "accent": "#ed9956",
+      "updatedAt": "2024-06-16"
+    },
+    {
+      "id": "p-1003",
+      "name": "Canvas Everyday Tote",
+      "sku": "ACC-7712",
+      "category": "Accessories",
+      "price": 32,
+      "stock": 0,
+      "reorderLevel": 10,
+      "status": "Out of Stock",
+      "description": "Heavyweight recycled canvas tote with an interior pocket and reinforced handles.",
+      "color": "#e0f5ec",
+      "accent": "#36a477",
+      "updatedAt": "2024-06-15"
+    },
+    {
+      "id": "p-1004",
+      "name": "Orbit Desk Lamp",
+      "sku": "HOM-4510",
+      "category": "Home & Living",
+      "price": 64,
+      "stock": 26,
+      "reorderLevel": 8,
+      "status": "In Stock",
+      "description": "A soft-glow, dimmable desk lamp with a sculptural aluminum arm.",
+      "color": "#e2f1fc",
+      "accent": "#4f9ed0",
+      "updatedAt": "2024-06-14"
+    },
+    {
+      "id": "p-1005",
+      "name": "Meadow Linen Shirt",
+      "sku": "APP-3081",
+      "category": "Apparel",
+      "price": 58,
+      "stock": 19,
+      "reorderLevel": 10,
+      "status": "In Stock",
+      "description": "Breathable linen-cotton blend shirt with a relaxed fit for everyday wear.",
+      "color": "#f8e8f2",
+      "accent": "#bd6f9a",
+      "updatedAt": "2024-06-12"
+    },
+    {
+      "id": "p-1006",
+      "name": "Pulse Smart Watch",
+      "sku": "ELE-9003",
+      "category": "Electronics",
+      "price": 149,
+      "stock": 5,
+      "reorderLevel": 12,
+      "status": "Low Stock",
+      "description": "A lightweight activity tracker with a bright display and seven-day battery.",
+      "color": "#e9eef4",
+      "accent": "#5b7594",
+      "updatedAt": "2024-06-10"
+    }
+  ]
+}
